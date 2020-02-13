@@ -1,12 +1,11 @@
 {
-    "name": "NearByApp",
+    "name": "DocxTemplate",
     "version": "0.0.0",
-    "description": "App finds customers within 100kms of dublin city",
+    "description": "App generates document from template document and data",
     "author": "Ankit",
     "license": "ISC",
     "dependencies": {
         "docxtemplater": "^3.16.9",
-        "nearbylocations": "0.0.3",
         "pizzip": "^3.0.6"
     }
 }
